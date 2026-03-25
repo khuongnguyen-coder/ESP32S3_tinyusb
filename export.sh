@@ -1,0 +1,1 @@
+/home/alvin/works/ESP-IDF/.espressif/v6.0/esp-idf/export.sh
